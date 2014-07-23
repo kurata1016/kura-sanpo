@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">くら散歩</string>
+    
+    <string name="route_info">ルート詳細</string>
+    <string name="route_mode">ルートモード</string>
+    <string name="legal_notices">免責事項</string>
+    <string name="change_infoSetting">設定変更</string>
+    
+    <string name="Back">戻る</string>
+    
+    <string name="description">camera</string>
+
+</resources>

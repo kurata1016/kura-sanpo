@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.android.kura_sanpo.MainActivity" >
+
+    <item
+        android:id="@+id/route_info"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/route_info"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/route_mode"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/route_mode"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/legal_notices"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/legal_notices"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/change_infoSetting"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/change_infoSetting"
+        app:showAsAction="ifRoom|withText"/>
+
+</menu>
